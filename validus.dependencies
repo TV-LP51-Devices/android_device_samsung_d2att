@@ -2,26 +2,31 @@
   {
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
+    "branch": "cm-12.1"
   },
   {
     "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common"
+    "branch": "cm-12.1"
   },
   {
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common"
+    "branch": "cm-12.1"
   },
   {
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2"
+    "branch": "cm-12.1"
   },
   {
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung"
+    "branch": "cm-12.1"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch": "cm-12.0"
+    "branch": "cm-12.1"
   }
   ]
