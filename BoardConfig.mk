@@ -29,5 +29,7 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2att
 
-TARGET_BOARD_INFO_FILE ?= device/samsung/d2att/board-info.txt
+TARGET_BOARD_INFO_FILE ?= device/samsung/d2att/boarddefconfig 
 
+# Kernel
+TARGET_KERNEL_CONFIG        := cyanogen_d2_defconfig
